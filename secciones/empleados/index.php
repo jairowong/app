@@ -3,23 +3,11 @@
 <h2>Listado de Empleados</h2>
 <div class="card">
     <div class="card-header">
-        <a
-            name=""
-            id=""
-            class="btn btn-primary"
-            href="crear.php"
-            role="button"
-            >Agregar Registro</a
-        >
-        
+        <a name="" id="" class="btn btn-primary" href="crear.php" role="button">Agregar Registro</a>
     </div>
     <div class="card-body">
-    <div
-        class="table-responsive-sm"
-    >
-        <table
-            class="table"
-        >
+    <div class="table-responsive-sm">
+        <table class="table">
             <thead>
                 <tr>
                     <th scope="col">Nombre </th>
@@ -42,17 +30,11 @@
                         <a name="" id="" class="btn btn-primary" href="#" role="button">carta</a>
                         <a name="" id="" class="btn btn-info" href="#" role="button">Editar</a>
                         <a name="" id="" class="btn btn-danger" href="#" role="button">Eliminar</a>
-                        
-              
-
                     </td>
                 </tr>
             </tbody>
         </table>
     </div>
-    
-
-
     </div>
 
 </div>
